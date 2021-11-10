@@ -8,10 +8,10 @@ Planejo criar uma plataforma com um curso de informática completo para alunos d
 
 ## Etapas Do Projeto
 O que foi feito até o momento foi:
-- [] Elaboração do Currículo
-- [] Pesquisa com escolas 
+- [ ] Elaboração do Currículo
+- [ ] Pesquisa com escolas 
 - [x] Frontend da Landing Page
-- [] Backend da Landing Page
-- [] Criação da plataforma para mentores
-- [] Criação da plataforma para alunos
-- [] Fechar parcerias 
+- [ ] Backend da Landing Page
+- [ ] Criação da plataforma para mentores
+- [ ] Criação da plataforma para alunos
+- [ ] Fechar parcerias 
